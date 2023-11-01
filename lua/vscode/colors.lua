@@ -66,6 +66,7 @@ colors.get_colors = function()
             vscGreen = '#6A9955',
             vscBlueGreen = '#4EC9B0',
             vscLightGreen = '#B5CEA8',
+            vscDarkGreen = '#6A9999',
             vscRed = '#F44747',
             vscOrange = '#CE9178',
             vscLightRed = '#D16969',
@@ -73,6 +74,7 @@ colors.get_colors = function()
             vscYellow = '#DCDCAA',
             vscDarkYellow = '#FFD602',
             vscPink = '#C586C0',
+            vscPurple = '#6a6a99',
         }
     else
         mycolors = {
@@ -136,12 +138,14 @@ colors.get_colors = function()
             vscGreen = '#008000',
             vscBlueGreen = '#16825D',
             vscLightGreen = '#098658',
+            vscDarkGreen = '#6A9999',
             vscRed = '#FF0000',
             vscOrange = '#C72E0F',
             vscLightRed = '#A31515',
             vscYellowOrange = '#800000',
             vscYellow = '#795E26',
             vscPink = '#AF00DB',
+            vscPurple = '#6a6a99',
         }
     end
 

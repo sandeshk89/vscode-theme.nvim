@@ -26,12 +26,12 @@ Install via package manager
 
 ```lua
 -- Packer:
-use 'Mofiqul/vscode.nvim'
+use 'sandeshk89/vscode-theme.nvim'
 ```
 
 ```vim
 " Vim-Plug:
-Plug 'Mofiqul/vscode.nvim'
+Plug 'sandeshk89/vscode-theme.nvim'
 ```
 
 ## 🚀 Usage
